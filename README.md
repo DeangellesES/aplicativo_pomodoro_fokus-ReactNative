@@ -10,11 +10,9 @@
 
 <h2>✨ Funcionalidades</h2>
 <ul>
-  <li>Informações sobre a Oficina</li>
-  <li>Mostrar Serviços</li>
-  <li>Mostrar processos de atendimento</li>
-  <li>Informações de contatos, localização e horário de funcionamento</li>
-  <li>Mostrar perguntas mais frequentes respondidas</li>
+  <li>Aplicativo para ajudar nas tarefas</li>
+  <li>Monitorar o tempo afim de aumentar o focu nos estudos</li>
+  <li>Adicinar, editar e deletar tarefas</li>
 </ul>
 
 <h2>⚙️ Detalhes Técnicos</h2>
