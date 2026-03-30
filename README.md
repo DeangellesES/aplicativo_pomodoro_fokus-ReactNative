@@ -5,7 +5,7 @@
 
 <h2>🚀 Tecnologias Utilizadas</h2>
 <ul>
-  <li><b>JavaScript</b> - React-Native</li>
+  <li><b>JavaScript</b> - ReactNative - Expo</li>
 </ul>
 
 <h2>✨ Funcionalidades</h2>
