@@ -15,8 +15,10 @@
   <li>Adicionar, editar e deletar tarefas</li>
 </ul>
 
-<!-- <h2>⚙️ Detalhes Técnicos</h2>
+<h2>⚙️ Detalhes Técnicos</h2>
 <ul>
-  
-</ul> -->
+  <li>construido com expo</li>
+  <li>StyleSheet para estilização</li>
+  <li>icones criados com svg e path</li>
+</ul> 
 
