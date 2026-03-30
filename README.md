@@ -14,7 +14,13 @@
   <li>Monitorar o tempo afim de aumentar o focu nos estudos</li>
   <li>Adicionar, editar e deletar tarefas</li>
 </ul>
-
+<br>
+<br>
+<div align="center">
+  <h2 align="center">Tela do Aplicativo</h2>
+  <img src="https://github.com/DeangellesES/aplicativo_pomodoro_fokus-ReactNative/blob/main/focus.png" width="300"/>
+</div>
+<br><br><br>
 <h2>⚙️ Detalhes Técnicos</h2>
 <ul>
   <li>construido com expo</li>
